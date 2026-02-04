@@ -1,3 +1,2 @@
 # Bioinformatics-Notes
-new note on feb 4
-another feb 4 note
+This is my lab notebook for gen811
